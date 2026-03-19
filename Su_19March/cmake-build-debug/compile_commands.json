@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/emilemilov/CLionProjects/Su_19March/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Su_19March.dir/library.c.o -c /Users/emilemilov/CLionProjects/Su_19March/library.c",
+  "file": "/Users/emilemilov/CLionProjects/Su_19March/library.c",
+  "output": "/Users/emilemilov/CLionProjects/Su_19March/cmake-build-debug/CMakeFiles/Su_19March.dir/library.c.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/emilemilov/CLionProjects/Su_19March/cmake-build-debug/CMakeFiles/Su_19March.dir
+/Users/emilemilov/CLionProjects/Su_19March/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emilemilov/CLionProjects/Su_19March/cmake-build-debug/CMakeFiles/rebuild_cache.dir
