@@ -1,0 +1,3 @@
+/Users/emilemilov/CLionProjects/Su4/cmake-build-debug/CMakeFiles/Su4.dir
+/Users/emilemilov/CLionProjects/Su4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emilemilov/CLionProjects/Su4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

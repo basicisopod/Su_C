@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/emilemilov/CLionProjects/Su4/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Su4.dir/library.c.o -c /Users/emilemilov/CLionProjects/Su4/library.c",
+  "file": "/Users/emilemilov/CLionProjects/Su4/library.c",
+  "output": "/Users/emilemilov/CLionProjects/Su4/cmake-build-debug/CMakeFiles/Su4.dir/library.c.o"
+}
+]
